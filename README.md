@@ -38,7 +38,7 @@ npm start
 # or
 yarn start
 Open your browser:
-Visit http://localhost:3000 to view the app.
+Visit https://vidana.netlify.app/ to view the app.
 
 ElevenLabs Convai Widget
 The ElevenLabs Convai widget is integrated and will appear in the bottom-right corner when the user scrolls halfway down the page.
@@ -48,7 +48,7 @@ To use your own ElevenLabs agent:
 Replace the agent-id in components/ElevenLabsWidget.js with your own.
 React
 
-<elevenlabs-convai agent-id="your_agent_id_here"></elevenlabs-convai>
+
 Folder Structure
 text
 
